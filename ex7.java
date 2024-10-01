@@ -1,4 +1,7 @@
+// Solicite ao usuário que insira uma sequência de números inteiros positivos. O programa deve contar quantos números pares e quantos números ímpares foram inseridos. Ao final, o programa deve exibir o total de números pares e ímpares.
+
 import java.util.Scanner;
+
 public class ex7 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

@@ -1,4 +1,7 @@
+// Deve receber 2 números e verificar se o segundo número é múltiplo do primeiro. Caso o segundo número seja múltiplo do primeiro, o seu programa deve imprimir a mensagem “São múltiplos”. Caso contrário, a mensagem impressa pelo seu programa deve ser: “Não são múltiplos”.
+
 import java.util.Scanner;
+
 public class ex6 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

@@ -1,3 +1,5 @@
+// Solicite ao professor a distância (em Km) do deslocamento até o ESPEP; Solicite o consumo médio do carro, litro/Km; Informe a quantidade de litros de combustível que o carro do professor gastará para realizar o deslocamento até o ESPEP. Informe quanto ele irá gastar por mês com combustível para realizar esse deslocamento.
+
 import java.util.Scanner;
 
 public class ex5 {

@@ -1,3 +1,5 @@
+// João aplicou seu dinheiro na poupança que rende 0,5% ao mês. Maria preferiu um fundo de renda fixa, que rende 1% ao mês. Sabendo que João aplicou R$ 1000,00 e maria começou seu investimento com R$ 100,00, calcule quantos messes são necessários para Maria ter mais dinheiro que João.
+
 class ex4 {
     public static void main(String[] args) {
         double dinheiroJoao = 1000;

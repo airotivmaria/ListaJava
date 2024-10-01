@@ -1,4 +1,7 @@
+// Peça ao usuário para digitar um número inteiro positivo N. O programa deve verificar se N é um número primo ou não.
+
 import java.util.Scanner;
+
 public class ex8 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
